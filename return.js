@@ -24,3 +24,13 @@ function bringSingara(money) {
 var myTaka = 150;
 var singaras = bringSingara(myTaka);
 console.log('Eating singaras', singaras);
+
+
+
+
+function movie(){
+    return "Din-The day";
+    return "Poran";
+    return "Hawa";
+   }
+   console.log(movie());
